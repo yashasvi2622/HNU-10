@@ -8,7 +8,6 @@
 * Many algorithms are based on the same price information shown in candlestick charts.Trading is often dictated by emotion, which can be read in candlestick charts.
 
 
-
 ## Required Packages :
 * Django: pip install django
 * Plotly: pip install plotly
@@ -32,12 +31,8 @@
 * Candlestick Graph :
 ![alt text](https://github.com/yashasvi2622/HNU-10/blob/main/NU-10%20images/graph4.jpeg "Valid-Symbol")
 
-* More-Info about the comapny :
+* More-Info about the company :
 ![alt text](https://github.com/yashasvi2622/HNU-10/blob/main/NU-10%20images/graph3.jpeg "Valid-Symbol")
-
-
-
-
 
 
 ## Goals
