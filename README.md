@@ -10,13 +10,14 @@
 
 
 ## Required Packages :
+* Python 3.9
 * Django: pip install django
 * Plotly: pip install plotly
 * pyEX: pip install pyEx
 
-## How to run the project :
-* Run manage.py file using following command
-* Python manage.py runserver
+## Installation & Execution :
+* Download all the files of the repository. Create a project in IDE and add the files of the repository to the project. Now run the command prompt and go the directory of the repository.
+* Now to establish the server execute the following command:  Python manage.py runserver
 
 ## Dashboard Design and Visualization :
 * Main-Dashboard:
