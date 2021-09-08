@@ -1,5 +1,5 @@
 # NU-10 : OHLC ENGINE
-## Stock-Chart :
+## StocksChart 
 * This project is a model dashboard on which the user would be able to analyze the sentiment of a specific stock.
 ### OHLC Chart :
 * An OHLC chart is a type of bar-chart that shows open, high, low, and closing prices for each period. OHLC charts are useful since they show the four major data points over a period, with the closing price being considered the most important by many traders.
