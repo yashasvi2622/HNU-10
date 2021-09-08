@@ -24,7 +24,7 @@
 
 ![alt text](https://github.com/yashasvi2622/HNU-10/blob/main/NU-10%20images/search1.jpeg "Dashboard")
 
-* User needs to enter a valid symbol to search for the respective data :
+* User needs to enter a valid symbol to search for the respective stock :
 ![alt text](https://github.com/yashasvi2622/HNU-10/blob/main/NU-10%20images/search2.jpeg "Valid-Symbol")
 
 * OLHC Graph:
