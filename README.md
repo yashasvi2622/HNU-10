@@ -1,2 +1,6 @@
-# HNU-10
-This is an example for reahme file and markdown.
+# NU-10
+##Overview
+##Required Packages :
+* Django: pip install django
+* Plotly: pip install plotly
+* pyEX: pip install pyEx
