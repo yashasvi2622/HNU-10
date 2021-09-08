@@ -12,7 +12,7 @@
 
 ## Demo-Screenshots:
 * Main-Dashboard:
-![alt text](file:///C:/Users/yashasvi/NU-10%20images/search1.jpeg "Dashboard")
+![alt text](https://github.com/yashasvi2622/HNU-10/blob/main/NU-10%20images/search1.jpeg "Dashboard")
 
 ## Goals
 
