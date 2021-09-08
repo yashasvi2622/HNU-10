@@ -11,6 +11,7 @@
 
 ## Required Packages :
 * Python 3.9
+* Pandas : pip install pandas
 * Django: pip install django
 * Plotly: pip install plotly
 * pyEX: pip install pyEx
@@ -21,7 +22,6 @@
 
 ## Dashboard Design and Visualization :
 * Main-Dashboard:
-
 ![alt text](https://github.com/yashasvi2622/HNU-10/blob/main/NU-10%20images/search1.jpeg "Dashboard")
 
 * User needs to enter a valid symbol to search for the respective stock :
